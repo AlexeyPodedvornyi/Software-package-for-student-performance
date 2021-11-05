@@ -1,0 +1,240 @@
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\bin\Release\DiplomApp.exe.config
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\bin\Release\DiplomApp.exe
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\bin\Release\DiplomApp.pdb
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\bin\Release\MySql.Data.dll
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\bin\Release\Google.Protobuf.dll
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\bin\Release\BouncyCastle.Crypto.dll
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\bin\Release\Renci.SshNet.dll
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\bin\Release\MySql.Data.xml
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.admin.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.adm_author.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.adm_grp.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.adm_pers.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.adm_stud.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.ControlTab.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.ControlTab2.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.ControlTab3.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.diplom.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.Edit.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.Form1.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.kursovie.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.Menu.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.Properties.Resources.resources
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.csproj.GenerateResource.cache
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.csproj.CoreCompileInputs.cache
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.csproj.CopyComplete
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.exe
+D:\C#\VLAD_DP\DiplomApp\DiplomApp\obj\Release\DiplomApp.pdb
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\DiplomApp.exe.config
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\DiplomApp.exe
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\DiplomApp.pdb
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\MySql.Data.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\Google.Protobuf.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\Zstandard.Net.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\System.Memory.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\System.Buffers.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Влад\Desktop\cod\DiplomApp\bin\Release\MySql.Data.xml
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.admin.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.adm_author.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.adm_grp.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.adm_pers.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.adm_stud.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.ControlTab.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.ControlTab2.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.ControlTab3.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.diplom.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.Edit.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.Form1.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.kursovie.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.Menu.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.Properties.Resources.resources
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.csproj.CopyComplete
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.exe
+C:\Users\Влад\Desktop\cod\DiplomApp\obj\Release\DiplomApp.pdb
+C:\Users\Keks\Desktop\cod\DiplomApp\bin\Release\DiplomApp.exe.config
+C:\Users\Keks\Desktop\cod\DiplomApp\bin\Release\DiplomApp.exe
+C:\Users\Keks\Desktop\cod\DiplomApp\bin\Release\DiplomApp.pdb
+C:\Users\Keks\Desktop\cod\DiplomApp\bin\Release\MySql.Data.dll
+C:\Users\Keks\Desktop\cod\DiplomApp\bin\Release\Google.Protobuf.dll
+C:\Users\Keks\Desktop\cod\DiplomApp\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Keks\Desktop\cod\DiplomApp\bin\Release\Renci.SshNet.dll
+C:\Users\Keks\Desktop\cod\DiplomApp\bin\Release\MySql.Data.xml
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.csprojAssemblyReference.cache
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.admin.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.adm_author.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.adm_grp.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.adm_pers.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.adm_stud.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.ControlTab.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.ControlTab2.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.ControlTab3.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.diplom.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.Edit.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.Form1.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.kursovie.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.Menu.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.Properties.Resources.resources
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.csproj.GenerateResource.cache
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.csproj.CopyComplete
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.exe
+C:\Users\Keks\Desktop\cod\DiplomApp\obj\Release\DiplomApp.pdb
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\bin\Release\DiplomApp.exe.config
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\bin\Release\DiplomApp.exe
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\bin\Release\DiplomApp.pdb
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\bin\Release\MySql.Data.dll
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\bin\Release\Google.Protobuf.dll
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\bin\Release\Renci.SshNet.dll
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\bin\Release\MySql.Data.xml
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.csprojAssemblyReference.cache
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.admin.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.adm_author.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.adm_grp.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.adm_pers.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.adm_stud.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.ControlTab.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.ControlTab2.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.ControlTab3.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.diplom.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.Edit.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.Form1.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.kursovie.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.Menu.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.Properties.Resources.resources
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.csproj.GenerateResource.cache
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.csproj.CopyComplete
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.exe
+C:\Users\Keks\Desktop\cod (1)\cod\DiplomApp\obj\Release\DiplomApp.pdb
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\DiplomApp.exe.config
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\DiplomApp.exe
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\DiplomApp.pdb
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\MySql.Data.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\Google.Protobuf.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\Zstandard.Net.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\Renci.SshNet.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\System.Buffers.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\System.Memory.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\bin\Release\MySql.Data.xml
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.csprojAssemblyReference.cache
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.admin.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.adm_author.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.adm_grp.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.adm_pers.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.adm_stud.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.ControlTab.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.ControlTab2.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.ControlTab3.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.diplom.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.Edit.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.Form1.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.kursovie.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.Menu.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.Properties.Resources.resources
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.csproj.GenerateResource.cache
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.csproj.CopyComplete
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.exe
+C:\Users\Алекс\Desktop\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.pdb
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\bin\Release\DiplomApp.exe.config
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\bin\Release\DiplomApp.exe
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\bin\Release\DiplomApp.pdb
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\bin\Release\MySql.Data.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\bin\Release\Google.Protobuf.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\bin\Release\Renci.SshNet.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\bin\Release\MySql.Data.xml
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.csprojAssemblyReference.cache
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.admin.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.adm_author.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.adm_grp.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.adm_pers.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.adm_stud.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.ControlTab.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.ControlTab2.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.ControlTab3.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.diplom.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.Edit.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.Form1.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.kursovie.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.Menu.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.Properties.Resources.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.csproj.GenerateResource.cache
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.csproj.CopyComplete
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.exe
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\cod\DiplomApp\obj\Release\DiplomApp.pdb
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\bin\Release\DiplomApp.exe.config
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\bin\Release\DiplomApp.exe
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\bin\Release\DiplomApp.pdb
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\bin\Release\MySql.Data.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\bin\Release\Google.Protobuf.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\bin\Release\Renci.SshNet.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\bin\Release\MySql.Data.xml
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.csprojAssemblyReference.cache
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.admin.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.adm_author.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.adm_grp.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.adm_pers.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.adm_stud.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.ControlTab.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.ControlTab2.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.ControlTab3.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.diplom.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.Edit.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.Form1.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.kursovie.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.Menu.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.Properties.Resources.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.csproj.GenerateResource.cache
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.csproj.CopyComplete
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.exe
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.1\DiplomApp\obj\Release\DiplomApp.pdb
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\bin\Release\DiplomApp.exe.config
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\bin\Release\DiplomApp.exe
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\bin\Release\DiplomApp.pdb
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\bin\Release\MySql.Data.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\bin\Release\Google.Protobuf.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\bin\Release\Renci.SshNet.dll
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\bin\Release\MySql.Data.xml
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.csprojAssemblyReference.cache
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.admin.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.adm_author.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.adm_grp.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.adm_pers.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.adm_stud.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.ControlTab.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.ControlTab2.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.ControlTab3.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.diplom.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.Edit.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.Form1.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.kursovie.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.Menu.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.Properties.Resources.resources
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.csproj.GenerateResource.cache
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.csproj.CopyComplete
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.exe
+C:\Users\Keks\Desktop\DP_Full\DP_END\DP_END\DP_FULLv1.1\DP_FULLv1.2\DiplomApp\obj\Release\DiplomApp.pdb
